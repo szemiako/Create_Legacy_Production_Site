@@ -9,8 +9,8 @@ You need the following prerequisites:
 
 *How do I do it?*
 * You can create one site on one server, or one site on many servers.
-  ** In both cases, you need to first create a configuration file. Look at userguids.json for an example.
-  ** Using this JSON, you can also create the same site on multiple servers (so long as the administrative user is created on each server).
+  * In both cases, you need to first create a configuration file. Look at userguids.json for an example.
+  * Using this JSON, you can also create the same site on multiple servers (so long as the administrative user is created on each server).
 * You can pass along arguments like command-line arguments. It takes the following arguments:
   * CompanyName
   * Configurations File
